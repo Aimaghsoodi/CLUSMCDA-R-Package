@@ -8,3 +8,5 @@ The related references of this paper can be found in [1] and [2].
 [2] Ijadi Maghsoodi, A., Riahi, D., E. Herrera-Viedma, E. K. Zavadskas, An Integrated Parallel Big Data Decision Support Tool Using the W-CLUS-MCDA: A Multi-Scenario Personnel Assessment. [Under-Review]  
 
 [3] Ijadi Maghsoodi, A., Riahi, D. The CLUS-MCDA Package: An Original Software Article. [Under-Review] 
+
+If you have any questions about the CLUS-MCDA package please do not hesitate to contact our support email at CLUS-MCDA@outlook.com
