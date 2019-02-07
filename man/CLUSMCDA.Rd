@@ -4,7 +4,7 @@
 \alias{CLUSMCDA}
 \title{Cluster Analysis for Improving Multiple Criteria Decision Making Analysis [CLUS-MCDA]}
 \usage{
-CLUSMCDA(strt)
+CLUSMCDA()
 }
 \arguments{
 \item{strt}{This is the only command that need to be written to start the CLUS-MCDA algorithm.}
