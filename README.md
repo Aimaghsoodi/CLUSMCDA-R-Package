@@ -17,7 +17,7 @@ The related references of this paper can be found in [1] and [2].
 
 If you have any questions about the CLUS-MCDA package please do not hesitate to contact our support email at CLUS-MCDA@outlook.com
 
-## Installation and Run 
+## Installation and Loading the Runnable Package 
 
 You can install the released version of CLUSMCDA from this repository with devtools package: 
 ``` r
