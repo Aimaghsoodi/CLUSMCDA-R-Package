@@ -15,7 +15,7 @@ The related references of this paper can be found in [1] and [2].
 
 [3] Ijadi Maghsoodi, A., Riahi, D. The CLUS-MCDA Package: An Original Software Article. [Under-Review] 
 
-If you have any questions about the CLUS-MCDA package please do not hesitate to contact our support email at CLUS-MCDA@outlook.com
+If you have any questions about the CLUS-MCDA runnable package/software please do not hesitate to contact our support email at CLUS-MCDA@outlook.com
 
 ## Installation
 
@@ -40,7 +40,7 @@ install_github("Aimaghsoodi/CLUSMCDA-R-Package").
 Or 
 
 You can download the .tar.gz file from: 
-https://github.com/Aimaghsoodi/CLUSMCDA-R-Package/blob/master/CLUSMCDA%20Package-V0.2.tar.gz
+https://github.com/Aimaghsoodi/CLUSMCDA-R-Package
 
 and then install the package manualy from your drive or this command: 
 
