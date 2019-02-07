@@ -16,7 +16,7 @@ returns a data frame which contains the clustering outputs of classified/categor
 Cluster Analysis for Improving Multiple Criteria Decision Making Analysis [CLUS-MCDA]
 }
 \examples{
-#just type CLUSMCDA() to run the CLUS-MCDA runnable program/package.
+#just type CLUSMCDA(strt) to run the CLUS-MCDA runnable program/package.
 }
 \references{
 [1] Ijadi Maghsoodi, A., Kavian, A., Khalilzadeh, M., & Brauers, W. K. M. (2018). CLUS-MCDA: A Novel Framework based on Cluster Analysis and Multiple Criteria Decision Theory in a Supplier Selection Problem. Computers & Industrial Engineering, 118 (August 2017), 409–422. Elsevier. Retrieved from http://linkinghub.elsevier.com/retrieve/pii/S0360835218300962. [2] Ijadi Maghsoodi, A., Riahi, D., E. Herrera-Viedma, E. K. Zavadskas, An Integrated Parallel Big Data Decision Support Tool Using the W-CLUS-MCDA: A Multi-Scenario Personnel Assessment. [Under-Review]. [3] Ijadi Maghsoodi, A., Riahi, D. The CLUS-MCDA Package: An Original Software Article. [Under-Review]
