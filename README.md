@@ -30,6 +30,7 @@ library(devtools)
 use install_github("Aimaghsoodi/CLUSMCDA-R-Package")
 
 Or you can download the .tar.gz file from: 
+https://github.com/Aimaghsoodi/CLUSMCDA-R-Package
 
 and then install the package manualy from your drive or this command: 
 ``` r
