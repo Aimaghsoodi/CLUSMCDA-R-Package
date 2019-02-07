@@ -40,7 +40,7 @@ install_github("Aimaghsoodi/CLUSMCDA-R-Package").
 Or 
 
 You can download the .tar.gz file from: 
-https://github.com/Aimaghsoodi/CLUSMCDA-R-Package
+https://github.com/Aimaghsoodi/CLUSMCDA-R-Package/blob/master/CLUSMCDA%20Package-V0.2.tar.gz
 
 and then install the package manualy from your drive or this command: 
 
