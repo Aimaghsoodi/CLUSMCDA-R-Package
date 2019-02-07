@@ -17,17 +17,25 @@ The related references of this paper can be found in [1] and [2].
 
 If you have any questions about the CLUS-MCDA package please do not hesitate to contact our support email at CLUS-MCDA@outlook.com
 
-## Installation and Loading the Runnable Package 
+## Installation
 
 You can install the released version of CLUSMCDA from this repository with devtools package: 
+
 ``` r
 install.packages("devtools")
 ```
+
 Load the devtools package: 
+
 ``` r
 library(devtools)
 ```
-use install_github("Aimaghsoodi/CLUSMCDA-R-Package").
+
+then use to instal the CLUS-MCDA from this repository: 
+
+``` r
+install_github("Aimaghsoodi/CLUSMCDA-R-Package").
+```
 
 Or 
 
@@ -35,14 +43,25 @@ You can download the .tar.gz file from:
 https://github.com/Aimaghsoodi/CLUSMCDA-R-Package
 
 and then install the package manualy from your drive or this command: 
+
 ``` r
-install.packages()
+install.packages(A*)
 ```
-and load the CLUS-MCDA: 
+A* = The CLUS-MCDA saved destination for example C:\Downloads\
+
+Then load the CLUS-MCDA package: 
+
 ``` r
 library(CLUSMCDA)
 ```
+
 Then just type CLUSMCDA(strt) to run the CLUS-MCDA runnable program/package. 
+
 ``` r
 CLUSMCDA(strt)
 ```
+
+## Installation
+### How to use the package?
+
+
