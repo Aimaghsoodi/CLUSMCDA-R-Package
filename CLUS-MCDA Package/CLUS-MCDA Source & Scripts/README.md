@@ -1,24 +1,26 @@
-# CLUSMCDA
-
-W-CLUS-MCDA: Weighted Cluster analysis for improving Multiple Criteria Decision Analysis with Parallel Decision Making (PDM) and Multi-Scenario Structure 
-This package is a part of the CLUS-MCDA project developed by Abteen Ijadi Maghsoodi. This package is a runnable package with no need to define any dependencies and it will ask the user the required information/input-data as you load the library and start the algorithm, this package has been coded by Dara Riahi and developed by Abteen Ijadi Maghsoodi. 
-CLUS-MCDA (Cluster analysis for improving Multiple Criteria Decision Analysis) algorithm is an iterative methodology based on the K-means clustering technique combined with the Multi-Objective Optimization on the basis of Ratio Analysis plus the full MULTIplicative form (MULTIMOORA) developed by Ijadi Maghsoodi et al. [1]. In this update the CLUS-MCDA approach has been utilized with Parallel Decision Making (PDM), Multi-Scenario Structure and the use of attributes weights, in case a user needed any of these calculating options. 
-The related references of this paper can be found in [1] and [2]. 
-
-
 ## Installation
 
-You can install the released version of CLUSMCDA from [CRAN](https://CRAN.R-project.org) with:
-
+You can install the released version of CLUSMCDA from this repository with devtools package: 
 ``` r
-install.packages("CLUSMCDA")
+install.packages("devtools")
 ```
-
-## Example
-
-Just type CLUSMCDA() to run the CLUS-MCDA runnable program/package. 
-
+Load the devtools package: 
 ``` r
-## basic example code
+library(devtools)
+```
+use install_github("Aimaghsoodi/CLUSMCDA-R-Package")
 
-Just type CLUSMCDA() to run the CLUS-MCDA runnable program/package. 
+Or you can download the .tar.gz file from: 
+
+and then install the package manualy from your drive or this command: 
+``` r
+install.packages()
+```
+and load the CLUS-MCDA: 
+``` r
+library(CLUS-MCDA)
+```
+Then just type CLUSMCDA(strt) to run the CLUS-MCDA runnable program/package. 
+``` r
+CLUSMCDA(strt)
+```
