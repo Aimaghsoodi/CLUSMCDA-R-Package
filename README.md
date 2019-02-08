@@ -49,6 +49,8 @@ install.packages(A*)
 ```
 A* = The CLUS-MCDA saved destination for example C:\Downloads\
 
+**** You can also install the CLUS-MCDA package with R or RStudio installation commands. 
+
 Then load the CLUS-MCDA package: 
 
 ``` r
