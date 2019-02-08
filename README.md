@@ -63,7 +63,7 @@ Then just type CLUSMCDA(strt) to run the CLUS-MCDA runnable program/package.
 CLUSMCDA(strt)
 ```
 
-## Installation
+## User Manual
 ### How to use the package?
 
 
