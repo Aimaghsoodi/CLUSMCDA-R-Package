@@ -1,6 +1,6 @@
 # CLUSMCDA-R-Package
-##### Corresponding Author/ Algorithm Developer: Abteen Ijadi Maghsoodi
-aimaghsoodi@srbiau.ac.ir - aimaghsoodi@outlook.com
+##### Corresponding Author/ Algorithm Developer: Abtin Ijadi Maghsoodi
+abtin.ijadi-maghsoodi@auckland.ac.nz - aimaghsoodi@outlook.com
 ##### Software/Package Developer: Dara Riahi
 darariahi@ut.ac.ir - riahi.dara@gmail.com
 ##### Support Team for the CLUS-MCDA Project: CLUS-MCDA@outlook.com
@@ -13,9 +13,7 @@ The related references of this paper can be found in:
 
 [2] Ijadi Maghsoodi, A., Riahi, D., E. Herrera-Viedma, E. K. Zavadskas, An Integrated Parallel Big Data Decision Support Tool Using the W-CLUS-MCDA: A Multi-Scenario Personnel Assessment. [Under-Review]  
 
-[3] Ijadi Maghsoodi, A., Riahi, D. The CLUS-MCDA Package: An Original Software Article. [Under-Review] 
-
-If you have any questions about the CLUS-MCDA runnable package/software please do not hesitate to contact our support email at CLUS-MCDA@outlook.com
+If you have any questions about the CLUS-MCDA runnable package/software please do not hesitate to contact our support email at abtin.ijadi-maghsoodi@auckland.ac.nz
 
 ## Installation
 
