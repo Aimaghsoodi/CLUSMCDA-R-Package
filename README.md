@@ -9,7 +9,7 @@ This package is a part of the CLUS-MCDA project developed by Abteen Ijadi Maghso
 
 Update for [2]: In this update the CLUS-MCDA approach has been utilized with Parallel Decision Making (PDM), Multi-Scenario Structure and the use of attributes weights, in case a user needed any of these calculating options.  
 
-## A NEW UPDATE IS ON THE WAY! 
+##### A NEW UPDATE IS ON THE WAY! 
 
 The related references of this paper can be found in:  
 
