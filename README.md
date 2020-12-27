@@ -15,7 +15,7 @@ The related references of this paper can be found in:
 
 [1] Ijadi Maghsoodi, A., Kavian, A., Khalilzadeh, M., &amp; Brauers, W. K. M. (2018). CLUS-MCDA: A Novel Framework based on Cluster Analysis and Multiple Criteria Decision Theory in a Supplier Selection Problem. Computers &amp; Industrial Engineering, 118 (August 2017), 409–422. Elsevier. Retrieved from http://linkinghub.elsevier.com/retrieve/pii/S0360835218300962 
 
-[2] Ijadi Maghsoodi, A., Riahi, D., E. Herrera-Viedma, E. K. Zavadskas, An Integrated Parallel Big Data Decision Support Tool Using the W-CLUS-MCDA: A Multi-Scenario Personnel Assessment. [Under-Review]  
+[2] Ijadi Maghsoodi, A., Riahi, D., E. Herrera-Viedma, E. K. Zavadskas, An integrated parallel big data decision support tool using the W-CLUS-MCDA: A multi-scenario personnel assessment. Knowledge-Based Systems, Volume 195, 11 May 2020, 105749. Elsevier. Retrieved from https://doi.org/10.1016/j.knosys.2020.105749  
 
 If you have any questions about the CLUS-MCDA runnable package/software please do not hesitate to contact our support email at abtin.ijadi-maghsoodi@auckland.ac.nz
 
